@@ -1,2 +1,3 @@
-# Expense-analyzer-and-Splitter
-Expense analyzer and Splitter
+In today's fast-paced world, individuals often struggle with managing their personal finances efficiently. Keeping track of monthly expenses, understanding spending habits, and accurately splitting bills among friends or group members can be challenging tasks. Many people face confusion and disputes when it comes to dividing shared expenses, leading to financial stress and strained relationnships.
+To address these issues, there is a pressing need for a seamless and intuitive financial solution. Such a tool should offer a holistic approach, combining detailed expense analysis to track spending habits and personalized bill-splitting functionality for group expenditures. Additionally, it should provide insightful suggestions on investment options, guiding users toward achieving their financial goals.
+
